@@ -1,4 +1,5 @@
-*Estruturas de Dados em Python
+**Estruturas de Dados em Python
+
 Este repositório contém uma série de exercícios e implementações em Python focados em estruturas de dados fundamentais. Através de uma variedade de problemas, explorei e implementei as seguintes estruturas de dados:
 
 - Hash Tables: Implementações de tabelas de dispersão (hash tables) para manipulação eficiente de conjuntos e mapeamentos.
