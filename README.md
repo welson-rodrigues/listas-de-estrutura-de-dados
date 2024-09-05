@@ -13,7 +13,7 @@ Este repositório contém uma série de exercícios e implementações em Python
 
 ## Como Executar os Exemplos
 Clone o Repositório
-git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/welson-rodrigues/listas-de-estrutura-de-dados.git)
+git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/welson-rodrigues/listas-de-estrutura-de-dados.git)\n
 cd listas-de-estrutura-de-dados
 
 ## Execute os Exemplos
