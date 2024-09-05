@@ -10,3 +10,11 @@ Este repositório contém uma série de exercícios e implementações em Python
 - Hash Table: Implementação de hash tables com funções de hash e resolução de colisões.
 - Árvore Binária de Busca (BST): Operações básicas e avançadas em BST, incluindo rotação e balanceamento.
 - Heap: Implementações de heaps binários e operações associadas, como inserção e extração do mínimo/máximo.
+
+## Como Executar os Exemplos
+Clone o Repositório
+git clone https://github.com/seu-usuario/seu-repositorio.git
+cd seu-repositorio
+
+## Execute os Exemplos
+python nome_do_script.py
